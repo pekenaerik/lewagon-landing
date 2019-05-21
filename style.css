@@ -1,0 +1,60 @@
+
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.banner{
+  background-image: url('https://images.unsplash.com/photo-1554189097-469e3847835d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
+  background-size: cover;
+  padding: 150px;
+  width:100%;
+}
+
+h1{
+  font-family: sans-serif;
+  color: #103c42;
+  font-weight: 500;
+  font-size: 50px;
+}
+h2{
+  font-family: sans-serif;
+  color: #103c42;
+  font-weight: 500;
+  font-size: 40px;
+}
+
+p {
+  font-family: sans-serif;
+  color: #02576c;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: #05a19c;
+}
+a:hover {
+  text-decoration: none;
+  color: #fdcb6e;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
